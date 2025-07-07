@@ -18,7 +18,9 @@
 <div>
   Olá, me chamo Diógenes Marques, moro em João Pessoa na Paraíba e tenho 27 anos de idade.
   <br>
-  - Em busca do Fullstack, estudando Javascript, Typescript, Node, Express, noSQL, React, NextJS, Knex.js, Docker
+  Em busca do Fullstack, estudando Javascript, Typescript, Node, Express, noSQL, React, NextJS, Knex.js, Docker.
+  <br>
+  Já passei por alguns projetos de Desenvolvimento, principalmente para servidores de GTA V Roleplay (FiveM), onde tive bastante contato com desenvolvimento de interfaces e também scripts funcionais para os servidores utilizando Lua.
 </div>
 <!--
 **diogenesm/diogenesm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
