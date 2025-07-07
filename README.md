@@ -1,6 +1,6 @@
 ## Skills
 <div>
-  <img loading='lazy' src='https://img.shields.io/badge/logo-javascript-blue?logo=javascript'></img>
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,webpack,nodejs,express,mongodb,tailwind,bootstrap,babel,github,react,ejs,vscode,)](https://skillicons.dev)
 </div>
 ## Contatos:
 <div>
