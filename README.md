@@ -1,6 +1,8 @@
 ## Skills
 <div>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,webpack,nodejs,express,mongodb,tailwind,bootstrap,babel,github,react,ejs,vscode,)](https://skillicons.dev)
+  <a href='https://skillicons.dev'>
+    <img src='https://skillicons.dev/icons?i=js,html,css,webpack,nodejs,express,mongodb,tailwind,bootstrap,babel,github,react,ejs,vscode'></img>
+  </a>
 </div>
 ## Contatos:
 <div>
