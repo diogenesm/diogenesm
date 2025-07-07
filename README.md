@@ -18,16 +18,7 @@
 <div>
   Olá, me chamo Diógenes Marques, moro em João Pessoa na Paraíba e tenho 27 anos de idade.
   <br>
-  - 
-</div>
-
-<div>
-<a href="https://github.com/diogenesm/github-readme-stats">
-  <img height='200' align='center' loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogenesm&layout=compact&theme=radical"/>
-</a>
-<a href="https://github.com/diogenesm/convoychat">
-  <img height='200' align='center' loading="lazy" src="https://github-readme-stats.vercel.app/api?username=diogenesm&show_icons=true&theme=radical"/>
-</a>
+  - Em busca do Fullstack, estudando Javascript, Typescript, Node, Express, noSQL, React, NextJS, Knex.js, Docker
 </div>
 <!--
 **diogenesm/diogenesm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
