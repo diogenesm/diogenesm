@@ -22,9 +22,12 @@
 </div>
 
 <div>
-<a href="https://github.com/diogenesm">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogenesm&layout=compact&theme=radical"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=diogenesm&show_icons=true&theme=radical"/>
+<a href="https://github.com/diogenesm/github-readme-stats">
+  <img height='200' loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogenesm&layout=compact&theme=radical"/>
+</a>
+<a href="https://github.com/diogenesm/convoychat">
+  <img height='200' loading="lazy" src="https://github-readme-stats.vercel.app/api?username=diogenesm&show_icons=true&theme=radical"/>
+</a>
 </div>
 <!--
 **diogenesm/diogenesm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
