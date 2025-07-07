@@ -23,10 +23,10 @@
 
 <div>
 <a href="https://github.com/diogenesm/github-readme-stats">
-  <img height='200' loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogenesm&layout=compact&theme=radical"/>
+  <img height='200' align='center' loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogenesm&layout=compact&theme=radical"/>
 </a>
 <a href="https://github.com/diogenesm/convoychat">
-  <img height='200' loading="lazy" src="https://github-readme-stats.vercel.app/api?username=diogenesm&show_icons=true&theme=radical"/>
+  <img height='200' align='center' loading="lazy" src="https://github-readme-stats.vercel.app/api?username=diogenesm&show_icons=true&theme=radical"/>
 </a>
 </div>
 <!--
