@@ -5,7 +5,7 @@
   </a>
 </div>
 
-## Contatos
+## Contacts
 <div>
 <!-- <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
 <a href="https://instagram.com/diogenesmb" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -14,13 +14,15 @@
 <a href="https://www.linkedin.com/in/diógenes-marques-069784170/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## Sobre
+## About
 <div>
   Olá, me chamo Diógenes Marques, moro em João Pessoa na Paraíba e tenho 27 anos de idade.
   <br>
   Em busca do Fullstack, estudando Javascript, Typescript, Node, Express, noSQL, React, NextJS, Knex.js, Docker.
   <br>
   Já passei por alguns projetos de Desenvolvimento, principalmente para servidores de GTA V Roleplay (FiveM), onde tive bastante contato com desenvolvimento de interfaces e também scripts funcionais para os servidores utilizando Lua.
+
+### Status
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=diogenesm&theme=omni&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 </div>
