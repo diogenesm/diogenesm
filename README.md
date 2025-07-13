@@ -21,11 +21,11 @@
   Em busca do Fullstack, estudando Javascript, Typescript, Node, Express, noSQL, React, NextJS, Knex.js, Docker.
   <br>
   Já passei por alguns projetos de Desenvolvimento, principalmente para servidores de GTA V Roleplay (FiveM), onde tive bastante contato com desenvolvimento de interfaces e também scripts funcionais para os servidores utilizando Lua.
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=diogenesm&theme=omni&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 </div>
 <!--
 **diogenesm/diogenesm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=diogenesm&theme=omni)](https://git.io/streak-stats)
 
 Here are some ideas to get you started:
 
