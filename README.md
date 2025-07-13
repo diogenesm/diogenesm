@@ -25,7 +25,7 @@
 ## Status
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=diogenesm&theme=omni&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
-(http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diogenesm&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diogenesm&theme=omni) 
 </div>
 <!--
 **diogenesm/diogenesm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
