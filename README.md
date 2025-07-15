@@ -44,12 +44,15 @@
   <br>
   Já passei por alguns projetos de Desenvolvimento, principalmente para servidores de GTA V Roleplay (FiveM), onde tive bastante contato com desenvolvimento de interfaces e também scripts funcionais para os servidores utilizando Lua.
 
+<!--
 ## Status
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=diogenesm&theme=radical" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogenesm" />
 </div>
+-->
+
 <!--
 **diogenesm/diogenesm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
