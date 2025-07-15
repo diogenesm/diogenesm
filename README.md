@@ -3,6 +3,7 @@
   <a href='https://skillicons.dev'>
     <img src='https://skillicons.dev/icons?i=js,html,css,webpack,nodejs,express,mongodb,tailwind,bootstrap,babel,github,react,vscode'></img>
   </a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </div>
 
 ## Contacts
