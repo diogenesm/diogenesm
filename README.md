@@ -46,7 +46,7 @@
 
 ## Status
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=diogenesm&theme=radical">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=diogenesm&theme=radical" />
 </div>
 <!--
 **diogenesm/diogenesm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
